@@ -14,3 +14,6 @@ print(n*20)
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] All is well
+- [x] Every thing under controll
+- [ ] Not completed list task
